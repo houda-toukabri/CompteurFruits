@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CompteurFruits</string>
+    <string name="titre">Compteur de Fruits</string>
+    <string name="rPomme">Pomme(s)</string>
+    <string name="rPoire">Poire(s)</string>
+    <string name="bCompter">Compter</string>
+    <string name="labelPommes">Pommes =</string>
+    <string name="tvPommes">0</string>
+    <string name="labelPoires">Poires =</string>
+    <string name="tvPoires">0</string>
+</resources>
